@@ -1,5 +1,5 @@
 # TemperatureArduino
-For scanning temperature of sensors DS18b20 (for C-Shape module)
+For scanning temperature of sensors DS18b20 (for UV module)
 
 For test of UV module 
 ![Image alt](https://github.com/IgorObach/TemperatureArduino/blob/main/pic/Diagrams.png) 
